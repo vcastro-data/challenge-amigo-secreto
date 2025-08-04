@@ -32,4 +32,4 @@ Este es un proyecto simple de práctica hecho en **HTML, CSS y JavaScript** que 
 
 ## ✨ Autor
 
-Desarrollado por [Vicky Castro](https://github.com/vcastro-data) como parte de su formación en lógica de programación.
+Desarrollado por [Vicky Castro](https://github.com/vcastro-data) como parte de su formación en lógica de programación en ONE Oracle Next Education y ALURA Latam.
